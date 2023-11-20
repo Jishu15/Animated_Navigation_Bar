@@ -8,4 +8,4 @@ Superior UI/UX
 # Usage
 To use this menu bar, write the following in VS Code terminal:
 
-git clone "https://github.com/Jishu15/Animated_Navigation_Bar.git"
+```git clone "https://github.com/Jishu15/Animated_Navigation_Bar.git"```
