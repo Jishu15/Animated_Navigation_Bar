@@ -12,5 +12,5 @@ This project is an animated navigation bar with smooth transitions and textures,
 To use this menu bar, insert the following in VS Code terminal:
 
 ```sh
-git clone "https://github.com/Jishu15/Animated_Navigation_Bar.git
+git clone "https://github.com/Jishu15/Animated_Navigation_Bar.git"
 ```
